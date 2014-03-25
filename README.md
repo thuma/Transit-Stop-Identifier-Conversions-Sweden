@@ -1,4 +1,4 @@
-TSC-Tables
+Transit Stop Identifier Conversions Sweden
 ==========
 
-Transit Stops Conversion Tables -
+Tables for converting ids between different stop ids.

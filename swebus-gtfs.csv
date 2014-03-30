@@ -1,0 +1,270 @@
+gtfsid,type,id,Name
+7400002,0,598,Aachen Wilmerdorfer strasse
+7400008,0,534,Alingsås station
+7400018,0,360,Amsterdam
+7400648,0,486,Ankarsrum Hpl V40
+7424999,0,22,Arboga resecentrum
+7400419,1,83,ARLANDA
+7438855,0,510,Askim Park & Ride E18
+7420671,1,134,Astrid Lindgrens värld
+7400030,0,279,Berlin ZOB
+7400039,0,595,Bielefeld Station Brackwede
+7625036,0,575,Birsta E4
+7411151,0,567,"Bjästa, södra utfart E4"
+7424273,0,34,Blankaholm vsk E 22
+7424272,0,571,Bollstabruk busstn
+7400026,0,323,Borgholm ReseCentrum
+7400020,0,36,Borlänge Resecentrum
+7415561,0,37,Borås ReseCentrum
+7415565,0,540,Bredsjö station
+7420483,0,375,Bremen
+7425508,0,509,Brennemoen Park & Ride E18
+7400646,0,294,Brno Uan Zvonarka
+7400222,0,40,Broholm Sandhem
+7423098,0,281,Bryssel
+7400638,0,503,Bråvallafestivalen
+7424290,0,325,Byxelkrok Hamnen
+7400347,0,495,Bålsta busstn
+7433206,0,324,Böda
+7436037,0,454,Böda sand
+7411208,0,378,Darmstadt
+7453588,0,529,Degerfors station
+7400060,0,44,Djurås Jvstn
+7423259,0,568,Docksta Marina E4
+7410657,0,596,Dortmund Busstation
+7417388,1,122,Dreamhack Elmia
+7411131,0,599,Düsseldorf Centralstation
+7400180,0,382,Eindhoven
+7400183,0,45,Eksjö Jvstn
+7422989,0,386,Emmabodafestivalen
+7411938,0,47,Enköping jvstn
+7471350,0,498,Eskilstuna Busstn hpl A
+7400315,0,512,Falköping Centralstation
+7414166,1,11,FALUN
+7408428,0,537,Falun centralstation
+7421159,0,592,Finspång Bruksparken
+7400816,0,355,Frankfurt am Main
+7401533,0,55,Fårbo vsk E 22
+7400580,0,322,Färjestaden Träffpunkten
+7400055,0,329,Föra vsk
+7400217,0,389,Gamleby Flisvägen
+7446073,0,504,"Getaway Gävle,Gasklockorna"
+7400291,0,399,Glömminge kyrkan
+7400658,0,370,Gnarp Statoil
+7401160,0,593,Groningen Centralstation
+7400158,0,477,Grums jvstn
+7421110,0,412,Grums Nyängen Rasta
+7414150,0,541,Grythyttan station
+7459033,0,58,Grängesberg Jvstn
+7424274,0,242,Gränna Galgen
+7400573,0,62,Gullspång Busstn
+7400576,0,348,Gävle Bro
+7443310,0,63,Gävle bstn Hamntorget
+7400073,1,14,GÖTEBORG
+7400364,0,443,Göteborg Angered centrum hpl H
+7400003,0,445,Göteborg Brunnsbotorget hpl D
+7414315,0,447,Göteborg Frölunda torg hpl K
+7439860,0,444,"Göteborg Klareberg Kärra, hpl C"
+7400084,0,446,Göteborg Klippan Karl Johansg.
+7400082,1,123,Göteborg Liseberg stn
+7401350,0,4,GÖTEBORG Nils E.Term / Centralstn
+7425491,0,381,Haag
+7423239,1,15,HALMSTAD
+7410586,0,227,Halmstad EuroStop
+7400162,0,408,Halmstad regionbussterm.
+7400160,0,278,Hamburg
+7459149,0,352,Hannover
+7464399,0,579,"Harmånger, hpl Nordanå E4"
+7400554,0,67,Hasslerör Motellet
+7407481,0,379,Heidelberg
+7407480,0,70,Helsingborg Knutpunkten
+7425037,0,532,Herrljunga station
+7421788,0,217,Hjortkvarn
+7410169,0,570,"Hornöberget, E4"
+7400076,1,94,HUDIKSVALL
+7400070,0,345,Hudiksvall Busstn Hpl K
+7400072,0,344,Hudiksvall Statoil E4 Glada Hudik
+7423247,0,489,"Huskvarna Esplanaden, rondellen"
+7414410,0,566,"Husum, hpl E4"
+7450840,0,573,"Hälledal, kiosken"
+7421191,0,78,Hällefors station
+7400482,0,79,Hällestad K:a
+7410760,0,339,Härnösand ReseC
+7400133,0,565,"Hörnefors, Statoil E4"
+7420510,0,459,Iggesund hpl Nya E4
+7400303,0,578,"Jättendal, hpl Dvästa (OK)E4"
+7400302,1,19,JÖNKÖPING
+7400300,0,490,Jönköping Ekhagen Centrun
+7400176,0,302,Jönköping Elmia
+7400173,0,9,JÖNKÖPING ReseC
+7400023,0,491,"Jönköping Råslätt, Fiskgjuseg vpl"
+7443449,0,492,Jönköping Torsvik hpl A
+7459354,0,84,Kalmar Jvstn
+7420990,0,246,Karlshamn ReseC
+7414286,0,588,Karlshamn Statoil
+7415575,0,87,Karlskoga Busstn
+7424484,1,23,KARLSKRONA
+7413212,0,586,Karlskrona Amiralen
+7400140,0,244,Karlskrona Kungsplan
+7425606,0,403,Karlskrona Verkö färjeterminal
+7407178,1,24,KARLSTAD
+7400622,0,8,KARLSTAD Busstn
+7400351,0,535,Karlstad station
+7400352,0,90,Karlstad Universitet
+7400019,0,316,Karolinska Institutet
+7418243,0,91,Kastrup Terminal 2
+7449131,0,544,Kil station
+7400099,0,364,Kläppen väg 71
+7400090,0,363,Knöstad E18
+7400258,1,127,Kollen Sommarfestival
+7400191,0,338,Kramfors ReseC
+7400194,0,589,Kristianstad Statoil
+7690001,0,97,Kristinehamn ReseC.
+7418588,0,433,Kungsberget Centrumhuset
+7414099,0,549,Kungälv busstn hpl J
+7410955,0,550,Kungälv Eriksdal
+7400656,0,577,"Kvissleby, E4"
+7464398,0,215,Kävesta
+8624917,0,597,Köln Busstation
+7400040,0,290,KÖPENHAMN Ingerslevsgade DGI
+7400044,0,328,Köpingsvik Kyrkan
+8600858,0,449,Landskrona Malmöv McDonalds
+7400206,0,584,Landskrona McDonalds
+7452904,0,321,Landvetter Flygplats
+7400120,0,530,Laxå station
+7400129,0,253,Leksand Jvstn
+,0,536,Lerum station
+,0,110,LINKÖPING Fjärrbussterm
+,0,331,Liseberg stn
+,1,32,LJUNGBY
+,0,398,Ljungby Motell E4
+,1,34,LUDVIKA
+,0,538,Ludvika station
+,0,590,Lund Höjdpunkten
+,0,115,Lund jvstn hpl O
+,0,572,Lunde
+,0,384,Lübeck
+,0,494,Läggesta jvstn
+,0,330,Löttorp Högby OKQ8
+,0,224,Lövåsen Rv 26
+,1,36,MALMÖ
+,0,5,MALMÖ Centralstation
+,0,591,Malmö Hyllie Arenan
+,0,380,Mannheim
+,0,118,Mariannelund Torget
+,0,119,Mariestad Busstn
+,0,120,Markaryd Jvstn
+,0,545,Mellerud station
+,0,122,Misterhult vsk E 22
+,0,123,Mjölby Resec
+,0,126,Mora Jvstn
+,0,275,Mullsjö Bosebyleden
+,0,129,Mullsjö Busstn
+,0,448,Mölndals bro hpl F
+,0,527,Mönsterås Norra E22
+,0,581,"Mörtsal, hpl E4"
+,0,390,Nordmaling Resecentrum
+,1,80,NORJE SWEDEN ROCK
+,0,133,NORRKÖPING Resecentrum
+,0,542,Nykroppa station
+,0,137,Nyköping Busstn
+,0,138,Nässjö Jvstn
+,0,594,Oldenburg Centralstation
+,0,140,Oskarshamn Resec
+,0,3,OSLO Gallerian
+,0,142,Otterbäcken Rv 26
+,0,283,Paris
+,0,293,Prag Busterminal Florenc
+,0,216,Pålsboda
+,0,245,Ronneby Jvstn
+,0,252,Roskilde Festival East Entrance
+,0,298,Rostock Scandlines Terminal
+,0,383,Rotterdam
+,0,400,Rälla affären
+,0,145,Rättvik Resec
+,0,147,Sandviken ReseC.
+,0,222,Sarpsborg Quality Hotel
+,0,507,Sassnitz
+,0,149,Sjötorp Rv 26
+,0,493,"Skillingaryd Götaström, Preem"
+,0,256,Skultorp Trafikplats
+,0,154,Skövde Resec
+,0,155,Slättäng Rv 47/26
+,0,337,Sollefteå Busstn Hpl A
+,1,140,SOLVALLA TRAVBANA
+,0,362,Stockholm Arlanda T2 och 3
+,0,361,Stockholm Arlanda T4
+,0,320,Stockholm Arlanda T5
+,0,1,STOCKHOLM Cityterminalen
+,0,496,Stockholm Stadsgården Viking Line
+,0,543,Storfors station
+,0,159,Strängnäs stn
+,0,539,Ställdalen station
+,0,162,Stöpen Rv 26
+,0,341,Sundsvall Busstn Hpl O/P
+,0,576,Sundsvall centralstn
+,0,277,Sweden Rock Norje E22
+,0,165,Säffle station
+,0,260,Sälen by OKQ8
+,0,266,Sälen Hundfjället Hotellet
+,0,287,Sälen HögfjällsCenter
+,0,264,Sälen Högfjällshotellet
+,0,261,Sälen Lindvallen Snöcentret
+,0,267,Sälen Stöten Centrumanl.
+,0,263,Sälen Sälfjällstorget
+,0,262,Sälen Sälsätern Blå band
+,0,288,Sälen Tandådalen Fritidsbyn
+,0,265,Sälen Tandådalen Kyrkan
+,0,220,Säter Bstn Centrumgrill
+,0,346,Söderhamn ReseC
+,0,166,Söderköping Busstn
+,1,52,SÖDERTÄLJE
+,0,167,Södertälje Syd
+,0,497,"Södertälje, Torget vid kyrkan"
+,0,286,Tanum Rasta
+,0,170,Tidaholm Busstn
+,0,582,Tierp station
+,0,574,Timrå centrum
+,1,135,Tivoli
+,1,136,Tom Tits
+,0,259,Transtrand Stinas Kiosk
+,0,349,Trelleborg färjeläge
+,0,176,Trollhättan station
+,0,221,Töcksfors Sandviksvägen
+,0,347,Tönnebro Värdshus
+,0,531,Töreboda station
+,0,181,Uddevalla Torpterm E 6
+,0,313,Ullared Gekås
+,0,569,"Ullånger, baksidan OKQ8"
+,0,182,Ulricehamn Brunnsnäs
+,0,334,Umeå Busstn
+,0,394,Umeå sjukhus hpl C
+,0,333,Umeå Ålidhem Tvistevägen
+,0,580,"Upplands Väsby, Scandic Hotel"
+,1,54,UPPSALA
+,0,309,Uppsala Business Park
+,0,269,Uppsala Ekonomikum
+,0,184,Uppsala Flogsta
+,0,6,UPPSALA Stationsgatan hpl E3/E4
+,0,254,Uppsala Studentstaden
+,0,402,Uppsala Willy:s Hj. Brantingsg.
+,0,255,Valdemarsvik E22
+,0,442,Vansbrosimningen Lokstallet
+,0,190,Verkebäcksbron
+,0,192,Vimmerby Resec
+,1,133,Visfestivalen
+,0,533,Vårgårda station
+,0,196,Värnamo ICA Kvantum
+,0,198,Västervik Resec
+,0,199,VÄSTERÅS ReseCentrum
+,0,202,Åmål Jvstn
+,0,204,Årjäng Busstn
+,0,455,Ängelholm E6 Shell/McDonalds
+,0,441,Ödeshög Rasta
+,0,523,Öland Root Festival
+,0,7,ÖREBRO Resecentrum
+,0,210,Örebro Sörbyängsvägen
+,0,211,Örebro Våghustorget
+,0,397,Örkelljunga Eket E4
+,0,335,Örnsköldsvik ReseC
+,0,546,Öxnered
